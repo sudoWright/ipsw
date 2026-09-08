@@ -273,17 +273,11 @@
   },
   "fcs_keys_stable": {
     "fcs_keys": {
-      "beta": {
-        "updated_at": "0001-01-01T00:00:00Z"
-      },
-      "rc": {
-        "updated_at": "0001-01-01T00:00:00Z"
-      },
       "release": {
-        "fingerprint": "23G83_25G83_23O780",
-        "ios_build": "23G83",
+        "fingerprint": "23G90_25G83_23O780",
+        "ios_build": "23G90",
         "macos_build": "25G83",
-        "updated_at": "2026-08-17T19:28:25Z",
+        "updated_at": "2026-09-08T21:32:09Z",
         "visionos_build": "23O780"
       }
     }
