@@ -256,18 +256,12 @@
   },
   "fcs_keys_rc": {
     "fcs_keys": {
-      "beta": {
-        "updated_at": "0001-01-01T00:00:00Z"
-      },
       "rc": {
-        "fingerprint": "23G82_25G82_23O244",
-        "ios_build": "23G82",
-        "macos_build": "25G82",
-        "updated_at": "2026-08-10T20:00:44Z",
-        "visionos_build": "23O244"
-      },
-      "release": {
-        "updated_at": "0001-01-01T00:00:00Z"
+        "fingerprint": "24A435_26A428_24M362",
+        "ios_build": "24A435",
+        "macos_build": "26A428",
+        "updated_at": "2026-09-09T21:19:58Z",
+        "visionos_build": "24M362"
       }
     }
   },
